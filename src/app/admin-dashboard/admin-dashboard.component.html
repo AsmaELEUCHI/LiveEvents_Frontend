@@ -1,0 +1,209 @@
+
+<!-- Gestion des artistes -->
+<div class="container-fluid">
+    <h2 class="text-uppercase">Gestion des Artistes</h2>
+    <div class="row bg-common"> 
+        <!-- Formulaire à gauche pour la créationdes artistes-->
+        <div class="col-md-4">
+            <div class="sub-block">
+                <form (ngSubmit)="onSubmitArtist()"class="form-style">
+                    <h3>Ajouter un Artiste</h3>
+                    <div class="form-group">
+                        <label for="artistName">Nom d'artiste :</label>
+                        <input [(ngModel)]="artistName" type="text" id="artistName" class="form-control" name="artistName" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="artistImage">URL de l'image :</label>
+                        <input [(ngModel)]="artistImage" type="text" id="artistImage" class="form-control" name="artistImage" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="artistBiography">Biographie :</label>
+                        <input [(ngModel)]="artistBiography" type="text" id="artistBiography" class="form-control" name="artistBiography" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="futureFestivalName">Nom du futur festival :</label>
+                        <input [(ngModel)]="futureFestivalName" type="text" id="futureFestivalName" class="form-control" name="futureFestivalName" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="futureDate">Date du futur festival :</label>
+                        <input [(ngModel)]="futureDate" type="text" id="futureDate" class="form-control" name="futureDate" required>
+                        <small *ngIf="!isDateFormatValid(futureDate) && futureDate.length > 0" class="text-danger">
+                            Le format doit être YYYY-MM-DD.
+                        </small>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="futureLocation">Emplacement du futur festival :</label>
+                        <input [(ngModel)]="futureLocation" type="text" id="futureLocation" class="form-control" name="futureLocation" required>
+                    </div>
+
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-primary">Ajouter l'artiste</button>
+                    </div>
+                </form>
+
+                <!-- Formulaire de la scène -->
+                <form (ngSubmit)="onSubmitScene()" class="form-style sceneForm">
+                     <h3>Ajouter une Scène</h3>
+                     <div class="form-group">
+                         <label for="sceneName">Nom de la scène :</label>
+                         <input [(ngModel)]="sceneName" type="text" id="sceneName" class="form-control" name="sceneName" required>
+                     </div>
+                     <div class="form-group">
+                         <button type="submit" class="btn btn-primary">Ajouter la scène</button>
+                     </div>
+                </form>
+
+                  <!-- Formulaire du programme-->
+                   <form (ngSubmit)="onsubmitProgram()" class="form-style">
+                    <h3>Créer un Programme</h3>
+                    <div class="form-group">
+                        <label for="selectedArtist">Sélectionnez un artiste :</label>
+                        <select [(ngModel)]="selectedArtist"  id="selectedArtist" class="form-control" name="selectedArtist" required>
+                            <option *ngFor="let artist of artists" value="scene">{{artistName}}</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="selectedScene"> Sélectionner une scéne :</label>
+                        <select [(ngModel)]="selectedScene" name="selectedScene" id="selectedScene" class="form-control" required></select>
+                        <option *ngFor="let scene of scenes" value="scene"></option>
+                    </div>
+                    <div class="form-group">
+                        <label for="date">Date :</label>
+                        <input [(ngModel)]="date" type="date" id="date" class="form-control" name="date" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="startTime">Heure de début :</label>
+                        <input [(ngModel)]="startTime" type="datetime-local" id="startTime" class="form-control" name="startTime" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="endTime">Heure de fin :</label>
+                        <input [(ngModel)]="endTime" type="datetime-local" id="endTime" class="form-control" name="endTime" required>
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-primary">Créer le programme</button>
+                    </div>
+                   </form>
+
+            </div>
+        </div>
+
+        <!-- Tableau d'affichage, de modification et de suppression des artistes à droite -->
+        <div class="col-md-8">
+            <h3>Liste des artistes</h3>
+            <div class="artist-table-container">
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Nom d'artiste</th>
+                            <th>Url de l'image</th>
+                            <th>Biographie</th>
+                            <th>Festival futur</th>
+                            <th>Date</th>
+                            <th>Emplacement</th>
+                            <th>Actions</th> 
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr *ngFor="let artist of artists">
+                        <td>
+                            <textarea  
+                            [(ngModel)]="artist.artistName" 
+                            [readonly]="!artist.isEditing" 
+                            aria-label="Nom de l'artiste" 
+                            placeholder="Nom de l'artiste"
+                            ></textarea>
+                        </td>
+                        <td>
+                            <textarea
+                            [(ngModel)]="artist.artistImage" 
+                            [readonly]="!artist.isEditing" 
+                            aria-label="URL de l'image" 
+                            placeholder="URL de l'image"
+                            ></textarea>
+                        </td>
+                        <td>
+                            <textarea 
+                            [(ngModel)]="artist.artistBiography" 
+                            [readonly]="!artist.isEditing" 
+                            aria-label="Biographie de l'artiste" 
+                            placeholder="Biographie"
+                            ></textarea>
+                        </td>
+                        <td>
+                            <textarea
+                            [(ngModel)]="artist.futureFestivalName" 
+                            [readonly]="!artist.isEditing" 
+                            aria-label="Nom du festival futur" 
+                            placeholder="Nom du festival"
+                            ></textarea>
+                        </td>
+                        <td>
+                            <textarea
+                            type="date" 
+                            [(ngModel)]="artist.futureDate" 
+                            [readonly]="!artist.isEditing" 
+                            aria-label="Date du festival" 
+                            ></textarea>
+                        </td>
+                        <td>
+                            <textarea
+                            [(ngModel)]="artist.futureLocation" 
+                            [readonly]="!artist.isEditing" 
+                            aria-label="Lieu du festival" 
+                            placeholder="Lieu"
+                            ></textarea>
+                        </td>
+                        <td>
+                            <button (click)="editArtist(artist)" *ngIf="!artist.isEditing">
+                            <i class="fa fa-edit" title="Modifier l'artiste"></i>
+                            </button>
+                            <button (click)="artist.id ? deleteArtist(artist.id) : null" title="Supprimer l'artiste">
+                            <i class="fa fa-trash"></i>
+                            </button>
+                            <button (click)="saveChanges(artist)" *ngIf="artist.isEditing">Enregistrer</button>
+                        </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            
+            <h3 class="my-4">Liste des Scènes</h3>
+            <div class="scene-table-container">
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Nom de la scène</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr *ngFor="let scene of scenes">
+                            <td class="scene-textarea">
+                                <textarea
+                                [(ngModel)]="scene.sceneName " 
+                                [readonly]="!scene.isEditing" 
+                                aria-label="Nom de la scéne" 
+                                placeholder="Nom de la scéne"
+                                ></textarea>
+                            </td>
+                            <td>
+                                <button (click)="editScene(scene)">
+                                    <i class="fa fa-edit" title="Modifier la scéne"></i>
+                                </button>
+                                <button (click)="scene.id? deleteScene(scene.id) : null" title="Supprimer la scéne">
+                                    <i class="fa fa-trash"></i>
+                                </button>
+                                <button (click)="saveSceneChanges(scene)" *ngIf="scene.isEditing">Enregistrer</button>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+    </div>
+</div>
+

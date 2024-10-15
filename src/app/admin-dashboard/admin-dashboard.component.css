@@ -1,0 +1,95 @@
+
+.container-fluid {
+    margin-top: 120px;
+}
+
+.bg-common {
+    background-color: #eff0ed; 
+    padding: 20px;
+    border-radius: 5px; 
+}
+
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px; 
+    color: white;
+    font-weight: bold;
+   }
+
+form {
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.artist-table-container {
+    max-height: 500px; 
+    overflow-y: scroll;
+    border: 1px solid #244ad2;
+    
+}
+
+.artist-table-container textarea {
+    width: 100%; 
+    height: 200px; 
+    padding: 10px; 
+    resize: none; 
+}
+
+thead {
+    background-color: #f8f8ee; 
+    border-bottom: 1px solid #244ad2;
+    top: 0; 
+    
+}
+
+th {
+    white-space: nowrap; 
+    background-color: #ebf0e2;
+    
+}
+
+.sub-block {
+    border: 1px solid #ccc;
+    padding: 15px; 
+    border-radius: 5px; 
+    margin-bottom: 20px; 
+}
+
+.sceneForm{
+    margin-top: 100px;
+}
+
+.scene-textarea{
+    width: 100%;
+}
+.scene-textarea textarea{
+    width: 100%; 
+    padding: 10px; 
+    resize: none; 
+}
