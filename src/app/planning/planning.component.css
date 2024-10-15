@@ -1,0 +1,148 @@
+/* Style planning */
+
+/* titre de planning */
+#titre-planning {
+  margin-top: 140px;
+  color: rgba(255, 255, 255, 0.8);
+  font-weight: bold;
+  font-size: 2em;
+  text-align: center;
+}
+
+/* Style pour les scènes */
+.scene {
+  padding: 20px;
+  margin: 0 auto; 
+  margin-bottom: 3%;
+  margin-top: 4%;
+  max-width: 1200px; /* Largeur maximale pour éviter les grands écrans */
+}
+
+/* Style pour le titre des scènes */
+.scene h2 {
+  font-size: 1.6rem;
+  text-align: center;
+  font-weight: bold;
+  color: rgba(0, 192, 240, 0.8);
+  margin-bottom: 1%;
+  text-transform: uppercase;
+  font-style: italic;
+}
+
+/* Style pour les jours */
+.day h3 {
+  font-size: 1.2rem;
+  font-weight: normal;
+  color: #ffffff;
+  margin-bottom: 3%;
+  text-align: center;
+  background-color: #b2458e;
+  font-style: italic;
+}
+
+/* Style pour les artistes */
+.artist {
+  padding: 2%;
+  margin-bottom: 3%;
+  background-color: #ffffff; 
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Style pour l'image de l'artiste */
+.artist img {
+  width: 50px; 
+  height: 50px; 
+  margin-right: 2%; 
+  border-radius: 50%; 
+}
+
+/* Style pour les détails de l'artiste */
+.artist p {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+/* Style pour le container des jours */
+.days {
+  display: flex;
+  gap: 40px; 
+  justify-content: center;
+ 
+}
+
+/* Style pour chaque jour */
+.day {
+  width: 300px; 
+  margin-bottom: 20px; 
+}
+
+/* Style pour le modal */
+.modal {
+  position: fixed; 
+  z-index: 1; 
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4); 
+}
+
+/* Contenu du modal */
+.modal-content {
+  background-color: #fefefe; 
+  margin: 15% auto; 
+  padding: 20px;
+  border: 1px solid #888;
+  width: 70%; 
+}
+
+/* Bouton de fermeture du modal */
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* Styles responsives */
+
+/* Pour les écrans de 768px ou moins */
+@media (max-width: 768px) {
+  #titre-planning {
+    font-size: 1.2em;
+  }
+  
+  .days {
+    flex-direction: column; 
+    align-items: center; 
+  }
+
+}
+
+/* Pour les écrans entre 768px et 1024px */
+@media (min-width: 768px) and (max-width: 1024px) {
+  #titre-planning {
+    font-size: 1.4em;
+  }
+
+  .days {
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center;
+   
+  }
+
+  
+}

@@ -1,0 +1,46 @@
+<!-- planning.component.html -->
+
+<!-- Début section planning -->
+<section>
+    <h1 id="titre-planning" class="text-uppercase text-center">
+      Ne manquez rien ! <br> Découvrez le planning complet de l'édition 2024
+    </h1>
+    <div class="container-planning" id="container-planning">
+      <!-- Les scènes, les jours et les artistes seront ajoutés ici par Angular -->
+      <div *ngFor="let scene of scenes">
+        <div class="scene">
+          <h2>{{ scene.name }}</h2>
+          <div class="days">
+            <div *ngFor="let date of scene.dates">
+              <div class="day">
+                <h3>{{ date.date }}</h3>
+                <div *ngFor="let artiste of date.artistes">
+                  <div class="artist" (click)="showArtistDetails(artiste)">
+                    <img [src]="artiste.imageUrl" alt="Image de l'artiste">
+                    <div>
+                      <p>{{ artiste.artisteName }}</p>
+                      <p>{{ artiste.horaire }}</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Fin section planning -->
+  
+  <!-- Modal -->
+  <div id="artisteModal" class="modal" [ngStyle]="{'display': modalVisible ? 'block' : 'none'}">
+    <div class="modal-content">
+      <span class="close" (click)="closeModal()">&times;</span>
+      <img id="modal-image" [src]="selectedArtist?.imageUrl" alt="Image de l'artiste" style="width: 100px; height: 100px; border-radius: 50%;">
+      <h2 id="modal-nom">{{ selectedArtist?.artisteName }}</h2>
+      <p id="modal-date">{{ selectedArtist?.horaire }}</p>
+      <p id="modal-scene">{{ selectedArtist?.scene }}</p>
+      <p id="modal-biographie">{{ selectedArtist?.biographie }}</p>
+    </div>
+  </div>
+  
