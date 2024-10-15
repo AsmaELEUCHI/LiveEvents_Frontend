@@ -1,0 +1,59 @@
+
+h1, h2, h3, h4, h5, h6{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+   p, a, li, span{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  
+  
+  /* Style pour le conteneur du fond "blobs" */
+  .background {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: -1; /* Mettre en arrière-plan */
+  }
+  /* Style pour l'image de fond "blobs" */
+  .blob-image {
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      opacity: 1;
+      filter: brightness(0.13) 
+  }
+  
+  
+  
+  /* style header */
+  
+  header {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      z-index: 1000; /* Mettre au-dessus du reste du contenu */
+     
+  }
+  .navbar {
+      background-color: black; 
+  }
+  .logo-img {
+      width: 40%; 
+      height: auto;
+      opacity: 0.8;
+  }
+  .logo-button {
+      display: flex;
+      justify-content: space-between; 
+      align-items: center; 
+      width: 100%;
+  }
+  .navbar-collapse {
+      text-align: center;
+  }

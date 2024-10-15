@@ -1,0 +1,307 @@
+[
+    {
+      "id": 112,
+      "date": "2024-06-12T22:51:12",
+      "date_gmt": "2024-06-12T20:51:12",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=partenaire&#038;p=112"
+      },
+      "modified": "2024-06-13T13:37:39",
+      "modified_gmt": "2024-06-13T11:37:39",
+      "slug": "radio-vibes",
+      "status": "publish",
+      "type": "partenaire",
+      "link": "http://localhost/liveEvents/partenaire/radio-vibes/",
+      "title": {
+        "rendered": "Radio Vibes"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 119,
+        "description": "Radio-Vibes est une station de radio innovante dédiée à la diffusion des meilleurs morceaux et des tendances musicales actuelles. Avec une programmation diversifiée couvrant une multitude de genres, de la pop au rock en passant par l'électro et le hip-hop, Radio-Vibes offre une expérience d'écoute enrichissante et dynamique pour tous les amateurs de musique. La station se distingue par ses émissions animées par des DJs et des animateurs passionnés, qui proposent des découvertes musicales, des interviews d'artistes, des sessions live et des reportages sur les événements musicaux. Accessible en ligne et via des applications mobiles, Radio-Vibes permet aux auditeurs de rester connectés à leurs sons préférés où qu'ils soient. En mettant l'accent sur l'interaction avec son audience, Radio-Vibes crée une communauté de mélomanes engagés et propose des contenus personnalisés en fonction des préférences de chacun. Que vous soyez à la recherche de nouveautés ou de classiques revisités, Radio-Vibes est votre compagnon idéal pour une immersion totale dans l'univers de la musique.",
+        "link": {
+          "title": "En savoir plus",
+          "url": "https://www.facebook.com/nationsoundsfestival/",
+          "target": ""
+        }
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/partenaire/112"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/partenaire"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/partenaire"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=112"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 110,
+      "date": "2024-06-12T22:50:30",
+      "date_gmt": "2024-06-12T20:50:30",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=partenaire&#038;p=110"
+      },
+      "modified": "2024-06-13T13:37:17",
+      "modified_gmt": "2024-06-13T11:37:17",
+      "slug": "festival-tv",
+      "status": "publish",
+      "type": "partenaire",
+      "link": "http://localhost/liveEvents/partenaire/festival-tv/",
+      "title": {
+        "rendered": "Festival TV"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 118,
+        "description": "Festival-TV est une chaîne dédiée à la diffusion en direct et à la couverture médiatique des festivals de musique les plus emblématiques du monde. Offrant un accès exclusif aux performances live, aux coulisses, et aux interviews d'artistes, Festival-TV permet aux spectateurs de vivre l'expérience des festivals depuis le confort de leur foyer. Disponible sur diverses plateformes, y compris les télévisions connectées, les ordinateurs et les appareils mobiles, Festival-TV propose également des documentaires, des analyses et des récapitulatifs quotidiens pour tenir les fans informés des moments forts et des nouveautés. En s'associant à des festivals de renom, Festival-TV offre une visibilité sans précédent aux événements et permet aux passionnés de musique de découvrir et de savourer des performances uniques, où qu'ils soient. Que vous soyez un festivalier expérimenté ou un spectateur à distance, Festival-TV est votre fenêtre sur le monde vibrant et diversifié des festivals de musique.",
+        "link": {
+          "title": "En savoir plus",
+          "url": "https://www.facebook.com/nationsoundsfestival/",
+          "target": ""
+        }
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/partenaire/110"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/partenaire"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/partenaire"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=110"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 108,
+      "date": "2024-06-12T22:49:18",
+      "date_gmt": "2024-06-12T20:49:18",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=partenaire&#038;p=108"
+      },
+      "modified": "2024-06-13T13:36:53",
+      "modified_gmt": "2024-06-13T11:36:53",
+      "slug": "music-pulse-magazine",
+      "status": "publish",
+      "type": "partenaire",
+      "link": "http://localhost/liveEvents/partenaire/music-pulse-magazine/",
+      "title": {
+        "rendered": "Music-Pulse-Magazine"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 117,
+        "description": "Music Pulse Magazine est une publication incontournable pour les passionnés de musique, proposant une couverture approfondie des dernières tendances, des artistes émergents et des grands noms de l'industrie musicale. Disponible en format numérique et imprimé, Music Pulse Magazine offre des interviews exclusives, des critiques d'albums, des reportages sur les coulisses des concerts et des analyses sur les évolutions du marché musical. Avec une équipe de journalistes et de critiques musicaux chevronnés, la revue s'efforce de fournir un contenu riche et varié qui résonne avec les amateurs de tous genres musicaux. En outre, Music Pulse Magazine s'engage à soutenir la scène musicale indépendante, mettant en lumière des talents prometteurs et des initiatives innovantes. Que vous soyez un mélomane averti ou simplement curieux de découvrir de nouveaux sons, Music Pulse Magazine est votre source de référence pour tout ce qui touche à l'univers de la musique.",
+        "link": {
+          "title": "En savoir plus",
+          "url": "https://www.facebook.com/nationsoundsfestival/",
+          "target": ""
+        }
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/partenaire/108"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/partenaire"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/partenaire"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=108"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 106,
+      "date": "2024-06-12T22:48:00",
+      "date_gmt": "2024-06-12T20:48:00",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=partenaire&#038;p=106"
+      },
+      "modified": "2024-06-13T13:36:34",
+      "modified_gmt": "2024-06-13T11:36:34",
+      "slug": "event-news",
+      "status": "publish",
+      "type": "partenaire",
+      "link": "http://localhost/liveEvents/partenaire/event-news/",
+      "title": {
+        "rendered": "Event News"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 116,
+        "description": "Event News est une plateforme d'information spécialisée dans la couverture des événements culturels et musicaux à travers le monde. Elle fournit aux utilisateurs des actualités en temps réel, des interviews exclusives, des critiques de concerts, et des reportages sur les festivals. En plus de son contenu en ligne, Event News propose une newsletter hebdomadaire et des alertes personnalisées pour tenir les amateurs d'événements informés des dernières nouveautés. Disponible sur divers appareils, Event News s'adresse à une audience globale, offrant une perspective approfondie et passionnée sur le monde des événements culturels. Que vous soyez à la recherche des dernières tendances ou que vous souhaitiez découvrir de nouveaux artistes, Event News est votre source d'information incontournable pour rester connecté à l'univers des spectacles et des festivals.",
+        "link": {
+          "title": "En savoir plus",
+          "url": "https://www.facebook.com/nationsoundsfestival/",
+          "target": ""
+        }
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/partenaire/106"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/partenaire"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/partenaire"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=106"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 104,
+      "date": "2024-06-12T22:45:45",
+      "date_gmt": "2024-06-12T20:45:45",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=partenaire&#038;p=104"
+      },
+      "modified": "2024-06-13T13:36:02",
+      "modified_gmt": "2024-06-13T11:36:02",
+      "slug": "festival-weekly",
+      "status": "publish",
+      "type": "partenaire",
+      "link": "http://localhost/liveEvents/partenaire/festival-weekly/",
+      "title": {
+        "rendered": "Festival Weekly"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 115,
+        "description": "Festival Weekly est un guide hebdomadaire complet dédié aux festivals de musique à travers le monde. Cette plateforme offre aux utilisateurs des informations détaillées sur les festivals à venir, des interviews d'organisateurs, des aperçus des programmes et des recommandations personnalisées. En plus de ses articles en ligne, Festival Weekly propose une newsletter hebdomadaire et des alertes mobiles pour que les amateurs de musique soient toujours au courant des dernières annonces et tendances. Disponible sur plusieurs appareils, Festival Weekly vise à connecter les passionnés de musique avec les événements qui correspondent le mieux à leurs goûts, offrant ainsi une ressource précieuse pour planifier des expériences musicales inoubliables. Que vous soyez un festivalier chevronné ou un novice curieux, Festival Weekly est votre guide indispensable pour découvrir et profiter pleinement de la scène des festivals de musique.",
+        "link": {
+          "title": "En savoir plus",
+          "url": "https://www.facebook.com/nationsoundsfestival/",
+          "target": ""
+        }
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/partenaire/104"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/partenaire"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/partenaire"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=104"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    }
+  ]

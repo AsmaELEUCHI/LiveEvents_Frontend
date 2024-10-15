@@ -1,0 +1,2162 @@
+[
+    {
+      "id": 12,
+      "date": "2024-06-03T19:45:57",
+      "date_gmt": "2024-06-03T17:45:57",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=12"
+      },
+      "modified": "2024-07-02T17:26:12",
+      "modified_gmt": "2024-07-02T15:26:12",
+      "slug": "efren-peck",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/efren-peck/",
+      "title": {
+        "rendered": "Efren Peck"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 208,
+        "nom": "Efren Peck",
+        "date": "26/12/2024",
+        "scene": "Villa Aurelika",
+        "horaire": "18h00→20h00",
+        "biographie": "Efren Peck, né le 15 mai 1975 à Barcelone, est un chanteur et compositeur espagnol de rock alternatif, reconnu pour ses paroles poétiques et sa voix distinctive. Il a commencé sa carrière musicale dans les clubs locaux de Barcelone avant de se faire remarquer sur la scène nationale avec son premier album solo acclamé par la critique, \"Echoes of the City\". Son style unique, mêlant des influences de folk et de rock indépendant, lui a valu une base de fans fidèles à travers l'Espagne et au-delà."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/12"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=12"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "date": "2024-06-03T20:44:48",
+      "date_gmt": "2024-06-03T18:44:48",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=16"
+      },
+      "modified": "2024-07-02T13:36:02",
+      "modified_gmt": "2024-07-02T11:36:02",
+      "slug": "laura-hartman",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/laura-hartman/",
+      "title": {
+        "rendered": "Laura Hartman"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 209,
+        "nom": " Laura Hartman",
+        "date": "26/12/2024",
+        "scene": "Villa Aurelika",
+        "horaire": "20h00→22h00",
+        "biographie": "Laura Hartman, née le 7 septembre 1980 à Los Angeles, est une chanteuse et auteure-compositrice américaine de musique folk-pop. Son style musical captivant et ses paroles introspectives ont séduit un large public, faisant d'elle une figure émergente sur la scène musicale contemporaine. Laura est connue pour sa capacité à exprimer des émotions profondes à travers sa musique, créant des chansons qui résonnent avec authenticité et sincérité."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/16"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=16"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "date": "2024-06-03T20:47:09",
+      "date_gmt": "2024-06-03T18:47:09",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=18"
+      },
+      "modified": "2024-07-02T13:37:27",
+      "modified_gmt": "2024-07-02T11:37:27",
+      "slug": "alisa-salinas",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/alisa-salinas/",
+      "title": {
+        "rendered": "Alisa Salinas"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 210,
+        "nom": "Alisa Salinas",
+        "date": "26/12/2024",
+        "scene": "Villa Aurelika",
+        "horaire": "22h00→00h00",
+        "biographie": "Alisa Salinas, née le 24 mars 1990 à Mexico, est une chanteuse et rappeuse mexicaine célèbre pour son énergie dynamique et ses paroles percutantes. Originaire des quartiers animés de Mexico City, elle a émergé sur la scène du hip-hop avec un style distinctif qui mêle des rythmes latino et des influences urbaines. Ses performances énergiques et son engagement envers des causes sociales ont fait d'elle une voix importante dans la musique urbaine mexicaine."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/18"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=18"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "date": "2024-06-03T20:56:14",
+      "date_gmt": "2024-06-03T18:56:14",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=20"
+      },
+      "modified": "2024-07-02T13:38:56",
+      "modified_gmt": "2024-07-02T11:38:56",
+      "slug": "joe-anderson",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/joe-anderson/",
+      "title": {
+        "rendered": "Joe Anderson"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 212,
+        "nom": "Joe Anderson",
+        "date": "26/12/2024",
+        "scene": "Villa Aurelika",
+        "horaire": "00h00→02h00",
+        "biographie": "oe Anderson, né le 12 juillet 1985 à Chicago, est un chanteur et musicien américain de jazz contemporain, connu pour sa virtuosité à la guitare et sa capacité à improviser avec aisance. Ayant grandi dans le berceau du jazz, il a été influencé par les grands maîtres du genre, tout en apportant une touche moderne à sa musique. Joe est réputé pour ses performances en live passionnantes et son exploration audacieuse des frontières du jazz traditionnel."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/20"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=20"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "date": "2024-06-03T21:01:24",
+      "date_gmt": "2024-06-03T19:01:24",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=22"
+      },
+      "modified": "2024-07-02T13:40:14",
+      "modified_gmt": "2024-07-02T11:40:14",
+      "slug": "margret-duke",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/margret-duke/",
+      "title": {
+        "rendered": "Margret Duke"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 213,
+        "nom": "Margret Duke",
+        "date": "26/12/2024",
+        "scene": "Theatrum Magnifildum",
+        "horaire": "18h00→20h00",
+        "biographie": "Margret Duke, née le 3 novembre 1978 à Londres, est une chanteuse et pianiste britannique de soul et de R&B, connue pour sa voix puissante et son style intemporel. Avec des influences allant d'Aretha Franklin à Adele, elle captive son public avec des performances émotionnellement chargées et des mélodies accrocheuses. Margret est une figure respectée dans la scène musicale britannique, célèbre pour sa capacité à captiver les auditeurs avec son talent brut et son charisme sur scène."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/22"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=22"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "date": "2024-06-03T21:04:39",
+      "date_gmt": "2024-06-03T19:04:39",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=24"
+      },
+      "modified": "2024-07-02T13:40:55",
+      "modified_gmt": "2024-07-02T11:40:55",
+      "slug": "williams-schmitt",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/williams-schmitt/",
+      "title": {
+        "rendered": "Williams Schmitt"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 214,
+        "nom": "Williams Schmitt",
+        "date": "26/12/2024",
+        "scene": "Theatrum Magnifildum",
+        "horaire": "20h00→22h00",
+        "biographie": "Williams Schmitt, né le 19 avril 1988 à Nashville, Tennessee, est un chanteur et compositeur américain de country-pop. Avec sa voix chaleureuse et son charisme sur scène, il a conquis les cœurs du public avec ses chansons authentiques et émouvantes, qui capturent l'esprit de la vie rurale américaine. Schmitt a débuté sa carrière dans les bars locaux de Nashville avant de connaître le succès avec son premier album solo, \"Open Roads\", qui a atteint les sommets des classements country. Son style unique, mêlant des influences de pop contemporaine et de country classique, en a fait l'une des étoiles montantes de la musique country moderne."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/24"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=24"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "date": "2024-06-03T21:06:49",
+      "date_gmt": "2024-06-03T19:06:49",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=26"
+      },
+      "modified": "2024-07-02T13:41:33",
+      "modified_gmt": "2024-07-02T11:41:33",
+      "slug": "helene-contreras",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/helene-contreras/",
+      "title": {
+        "rendered": "Helene Contreras"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 215,
+        "nom": "Helene Contreras",
+        "date": "26/12/2024",
+        "scene": "Theatrum Magnifildum",
+        "horaire": "22h00→00h00",
+        "biographie": "Helene Contreras, née le 8 juin 1992 à Buenos Aires, est une chanteuse et compositrice argentine de tango contemporain. Son interprétation passionnée et sa profonde connexion émotionnelle avec la musique ont fait d'elle une figure remarquable dans le monde du tango. Contreras a été influencée par les grands maîtres du tango argentin, tout en apportant sa propre sensibilité moderne à ce genre traditionnel. Avec des performances envoûtantes et des compositions originales, elle captive son public et perpétue l'héritage du tango argentin dans le monde contemporain de la musique."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/26"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=26"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "date": "2024-06-03T21:08:57",
+      "date_gmt": "2024-06-03T19:08:57",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=28"
+      },
+      "modified": "2024-07-02T13:42:18",
+      "modified_gmt": "2024-07-02T11:42:18",
+      "slug": "irving-jackson",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/irving-jackson/",
+      "title": {
+        "rendered": "Irving Jackson"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 216,
+        "nom": " Irving Jackson",
+        "date": "26/12/2024",
+        "scene": "Theatrum Magnifildum",
+        "horaire": "00h00→02h00",
+        "biographie": "Irving Jackson, né le 7 septembre 1985 à Detroit, Michigan, est un chanteur et pianiste américain de rhythm and blues. Sa voix veloutée et son jeu de piano virtuose ont captivé les amateurs de musique du monde entier. Inspiré par les légendes du R&B telles que Ray Charles et Stevie Wonder, Jackson apporte une touche moderne à ce genre classique, fusionnant des éléments de soul, de jazz et de funk dans ses performances électrisantes. Avec des chansons sincères et des arrangements inventifs, il a conquis une place de choix sur la scène musicale contemporaine."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/28"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=28"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "date": "2024-06-03T21:12:54",
+      "date_gmt": "2024-06-03T19:12:54",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=30"
+      },
+      "modified": "2024-07-02T13:43:06",
+      "modified_gmt": "2024-07-02T11:43:06",
+      "slug": "freda-chen",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/freda-chen/",
+      "title": {
+        "rendered": "Freda Chen"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 217,
+        "nom": " Freda Chen",
+        "date": "26/12/2024",
+        "scene": "Circus Mulaxux",
+        "horaire": "18h00→20h00",
+        "biographie": "Freda Chen, née le 12 mars 1990 à Shanghai, est une chanteuse et guitariste chinoise de rock indépendant. Avec sa voix envoûtante et son jeu de guitare énergique, elle a émergé comme l'une des figures les plus prometteuses de la scène musicale alternative en Chine. Chen puise son inspiration dans une variété de genres, du rock classique au folk, créant ainsi un son distinctif qui captive les auditeurs. Ses paroles introspectives et son engagement envers l'authenticité musicale en font une artiste appréciée tant sur le plan local qu'international."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/30"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=30"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "date": "2024-06-03T21:14:53",
+      "date_gmt": "2024-06-03T19:14:53",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=32"
+      },
+      "modified": "2024-07-02T13:43:46",
+      "modified_gmt": "2024-07-02T11:43:46",
+      "slug": "basil-valenzuela",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/basil-valenzuela/",
+      "title": {
+        "rendered": "Basil Valenzuela"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 218,
+        "nom": "Basil Valenzuela",
+        "date": "26/12/2024",
+        "scene": "Circus Mulaxux",
+        "horaire": "20h00→22h00",
+        "biographie": "Basil Valenzuela, né le 25 septembre 1983 à Mexico City, est un chanteur et compositeur mexicain de musique mariachi. Avec sa voix puissante et son charisme sur scène, il incarne l'esprit et la tradition de la musique mariachi. Valenzuela a débuté sa carrière dans les rues animées de Mexico avant de se faire remarquer sur la scène nationale avec ses interprétations passionnées de chansons classiques et ses compositions originales. Son dévouement à préserver l'essence du mariachi tout en explorant de nouveaux horizons musicaux en fait une figure emblématique de la musique mexicaine contemporaine."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/32"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=32"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "date": "2024-06-03T21:16:23",
+      "date_gmt": "2024-06-03T19:16:23",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=34"
+      },
+      "modified": "2024-07-02T13:44:28",
+      "modified_gmt": "2024-07-02T11:44:28",
+      "slug": "ramona-pacheco",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/ramona-pacheco/",
+      "title": {
+        "rendered": "Ramona Pacheco"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 219,
+        "nom": " Ramona Pacheco",
+        "date": "26/12/2024",
+        "scene": "Circus Mulaxux",
+        "horaire": "22h00→00h00",
+        "biographie": "Ramona Pacheco, née le 18 juillet 1987 à San Juan, Porto Rico, est une chanteuse et percussionniste de salsa et de musique tropicale. Son talent inné pour la musique et son énergie contagieuse ont fait d'elle une figure emblématique de la scène musicale caribéenne. Pacheco a commencé sa carrière en tant que danseuse de salsa avant de se concentrer sur le chant et la percussion, fusionnant des rythmes ensoleillés avec des paroles envoûtantes pour créer un son unique. Avec des performances dynamiques et une présence scénique captivante, elle captive les foules et diffuse la joie de la musique tropicale à travers le monde."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/34"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=34"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "date": "2024-06-03T21:18:10",
+      "date_gmt": "2024-06-03T19:18:10",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=36"
+      },
+      "modified": "2024-07-02T13:45:04",
+      "modified_gmt": "2024-07-02T11:45:04",
+      "slug": "art-sims",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/art-sims/",
+      "title": {
+        "rendered": "Art Sims"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 220,
+        "nom": " Art Sims",
+        "date": "26/12/2024",
+        "scene": "Circus Mulaxux",
+        "horaire": "00h00→02h00",
+        "biographie": "Art Sims, né le 30 mai 1980 à Chicago, Illinois, est un rappeur et producteur de hip-hop américain. Originaire du quartier sud de Chicago, il a émergé sur la scène musicale avec des paroles perspicaces et un style de rap distinctif. Sims est reconnu pour ses textes poignants qui reflètent les réalités de la vie urbaine et pour ses productions musicales innovantes qui mélangent des influences de jazz, de funk et de soul. Avec son engagement envers l'authenticité et son impact positif sur la communauté, il est devenu une voix importante dans le paysage du hip-hop contemporain."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/36"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=36"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "date": "2024-06-03T21:20:11",
+      "date_gmt": "2024-06-03T19:20:11",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=40"
+      },
+      "modified": "2024-07-02T13:50:51",
+      "modified_gmt": "2024-07-02T11:50:51",
+      "slug": "maribel-terrell",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/maribel-terrell/",
+      "title": {
+        "rendered": "Maribel Terrell"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 221,
+        "nom": "Maribel Terrell",
+        "date": "27/12/2024",
+        "scene": "Villa Aurelika",
+        "horaire": "18h00→20h00",
+        "biographie": "Maribel Terrell, née le 10 août 1995 à Madrid, est une chanteuse et auteure-compositrice espagnole de flamenco fusion. Son style unique mélange les traditions du flamenco avec des éléments contemporains, créant ainsi une musique vibrante et captivante. Terrell a été initiée à l'art du flamenco dès son plus jeune âge, et son héritage culturel imprègne chacune de ses performances. Avec sa voix envoûtante et son talent pour la composition, elle transporte son public dans un voyage émotionnel à travers les paysages sonores riches et variés de l'Espagne."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/40"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=40"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "date": "2024-06-03T21:21:34",
+      "date_gmt": "2024-06-03T19:21:34",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=42"
+      },
+      "modified": "2024-07-02T13:51:27",
+      "modified_gmt": "2024-07-02T11:51:27",
+      "slug": "arturo-sutton",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/arturo-sutton/",
+      "title": {
+        "rendered": "Arturo Sutton"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 223,
+        "nom": "Arturo Sutton",
+        "date": "27/12/2024",
+        "scene": "Villa Aurelika",
+        "horaire": "20h00→22h00",
+        "biographie": "Arturo Sutton, né le 7 novembre 1988 à La Havane, Cuba, est un chanteur et compositeur cubain de musique reggaeton. Avec son énergie contagieuse et son style unique, il a conquis les cœurs du public avec ses rythmes entraînants et ses paroles accrocheuses. Sutton a émergé sur la scène musicale cubaine avec son premier album solo, qui a rapidement grimpé dans les classements locaux. Son mélange de reggaeton traditionnel avec des influences modernes en fait l'une des voix les plus dynamiques et originales de la musique urbaine cubaine."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/42"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=42"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "date": "2024-06-03T21:23:27",
+      "date_gmt": "2024-06-03T19:23:27",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=45"
+      },
+      "modified": "2024-07-02T13:52:04",
+      "modified_gmt": "2024-07-02T11:52:04",
+      "slug": "penelope-reyes",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/penelope-reyes/",
+      "title": {
+        "rendered": "Penelope Reyes"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 224,
+        "nom": "Penelope Reyes",
+        "date": "27/12/2024",
+        "scene": "Villa Aurelika",
+        "horaire": "22h00→00h00",
+        "biographie": "Penelope Reyes, née le 15 mars 1992 à San Juan, Porto Rico, est une chanteuse et musicienne polyvalente de musique latino-américaine. Issue d'une famille de musiciens, elle a été bercée dès son enfance par les rythmes envoûtants de la salsa, de la bachata et du merengue. Penelope a rapidement développé un talent exceptionnel pour le chant et la performance scénique, et elle s'est fait remarquer sur la scène musicale internationale grâce à sa voix puissante et son charisme captivant. Sa musique allie habilement des éléments de tradition et de modernité, offrant ainsi une expérience musicale unique et émouvante à son public."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/45"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=45"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "date": "2024-06-03T21:25:03",
+      "date_gmt": "2024-06-03T19:25:03",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=47"
+      },
+      "modified": "2024-07-02T13:52:37",
+      "modified_gmt": "2024-07-02T11:52:37",
+      "slug": "toby-baldwin",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/toby-baldwin/",
+      "title": {
+        "rendered": "Toby Baldwin"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 225,
+        "nom": "Toby Baldwin",
+        "date": "27/12/2024",
+        "scene": "Villa Aurelika",
+        "horaire": "00h00→02h00",
+        "biographie": "Toby Baldwin, né le 20 septembre 1987 à Nashville, Tennessee, est un chanteur et compositeur américain de musique country. Originaire du berceau de la musique country, il a été influencé par les sons authentiques du sud des États-Unis dès son plus jeune âge. Baldwin a émergé sur la scène musicale avec son style distinctif, alliant des histoires personnelles et des mélodies accrocheuses pour créer des chansons qui résonnent avec un large public. Sa voix chaleureuse et son talent pour la composition lui ont valu une place de choix dans le paysage musical contemporain, faisant de lui l'une des étoiles montantes de la musique country."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/47"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=47"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "date": "2024-06-03T21:26:51",
+      "date_gmt": "2024-06-03T19:26:51",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=49"
+      },
+      "modified": "2024-07-02T13:56:50",
+      "modified_gmt": "2024-07-02T11:56:50",
+      "slug": "ruthie-berg",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/ruthie-berg/",
+      "title": {
+        "rendered": "Ruthie Berg"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 226,
+        "nom": " Ruthie Berg",
+        "date": "27/12/2024",
+        "scene": "Theatrum Magnifildum",
+        "horaire": "18h00→20h00",
+        "biographie": "Ruthie Berg, née le 12 juillet 1990 à Austin, Texas, est une chanteuse et auteure-compositrice américaine de folk contemporain. Inspirée par les vastes paysages du Texas et les récits de la vie quotidienne, elle tisse des histoires captivantes à travers ses chansons. Berg a commencé sa carrière dans les cafés de sa ville natale avant de se faire remarquer sur la scène nationale avec son premier album acclamé par la critique. Son style musical authentique et son interprétation émouvante en font une voix remarquable dans le monde de la musique folk, captivant les auditeurs avec sa sincérité et sa poésie."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/49"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=49"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 51,
+      "date": "2024-06-03T21:28:26",
+      "date_gmt": "2024-06-03T19:28:26",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=51"
+      },
+      "modified": "2024-07-02T13:57:24",
+      "modified_gmt": "2024-07-02T11:57:24",
+      "slug": "tory-scott",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/tory-scott/",
+      "title": {
+        "rendered": "Tory Scott"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 227,
+        "nom": "Tory Scott",
+        "date": "27/12/2024",
+        "scene": "Theatrum Magnifildum",
+        "horaire": "20h00→22h00",
+        "biographie": "Tory Scott, né le 3 avril 1994 à Atlanta, Géorgie, est un rappeur et producteur américain de hip-hop. Son parcours musical a débuté dans les quartiers animés d'Atlanta, où il a été imprégné par la culture du rap dès son plus jeune âge. Scott a rapidement émergé comme une force montante sur la scène du hip-hop, avec des paroles percutantes et des rythmes innovants qui captivent son public. Son engagement envers l'authenticité et son flair pour l'écriture lui ont valu une reconnaissance croissante dans l'industrie musicale, faisant de lui l'une des voix les plus prometteuses du hip-hop contemporain."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/51"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=51"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 53,
+      "date": "2024-06-03T21:29:55",
+      "date_gmt": "2024-06-03T19:29:55",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=53"
+      },
+      "modified": "2024-07-02T13:57:53",
+      "modified_gmt": "2024-07-02T11:57:53",
+      "slug": "nell-sanchez",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/nell-sanchez/",
+      "title": {
+        "rendered": "Nell Sanchez"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 228,
+        "nom": " Nell Sanchez",
+        "date": "27/12/2024",
+        "scene": "Theatrum Magnifildum",
+        "horaire": "22h00→00h00",
+        "biographie": "Nell Sanchez, née le 15 février 1992 à Mexico City, est une chanteuse et compositrice mexicaine de musique pop alternative. Influencée par la diversité culturelle de sa ville natale, elle fusionne des éléments de pop, de rock et de musique électronique pour créer un son distinctif et captivant. Sanchez a débuté sa carrière en tant que musicienne de rue avant de conquérir les scènes locales avec ses performances énergiques et ses mélodies accrocheuses. Son style authentique et sa voix envoûtante lui ont valu une base de fans dévoués, faisant d'elle l'une des artistes les plus prometteuses de la scène musicale mexicaine."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/53"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=53"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 55,
+      "date": "2024-06-03T21:32:02",
+      "date_gmt": "2024-06-03T19:32:02",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=55"
+      },
+      "modified": "2024-07-02T13:58:34",
+      "modified_gmt": "2024-07-02T11:58:34",
+      "slug": "jess-leblanc",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/jess-leblanc/",
+      "title": {
+        "rendered": "Jess Leblanc"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 229,
+        "nom": " Jess Leblanc",
+        "date": "27/12/2024",
+        "scene": "Theatrum Magnifildum",
+        "horaire": "00h00→02h00",
+        "biographie": "Jess Leblanc, née le 10 mai 1988 à La Nouvelle-Orléans, Louisiane, est une chanteuse et pianiste américaine de soul et de R&B. Son héritage musical imprègne chacune de ses performances, où elle mêle des influences de jazz, de blues et de gospel pour créer un son authentique et captivant. Leblanc a commencé sa carrière dans les clubs de jazz de La Nouvelle-Orléans, où elle a été remarquée pour sa voix puissante et sa présence scénique charismatique. Avec des chansons poignantes et des performances émotionnellement chargées, elle captive son public et perpétue la tradition musicale riche de sa ville natale."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/55"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=55"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 57,
+      "date": "2024-06-03T21:33:34",
+      "date_gmt": "2024-06-03T19:33:34",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=57"
+      },
+      "modified": "2024-07-02T13:59:06",
+      "modified_gmt": "2024-07-02T11:59:06",
+      "slug": "clara-leon",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/clara-leon/",
+      "title": {
+        "rendered": "Clara Leon"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 230,
+        "nom": "Clara Leon",
+        "date": "27/12/2024",
+        "scene": "Circus Mulaxux",
+        "horaire": "18h00→20h00",
+        "biographie": "Clara León, née le 28 septembre 1993 à Madrid, est une chanteuse et guitariste espagnole de flamenco moderne. Avec sa voix envoûtante et son jeu de guitare virtuose, elle fusionne les traditions du flamenco avec des éléments contemporains pour créer un son dynamique et captivant. León a débuté sa carrière sur les scènes locales de Madrid, où elle a rapidement attiré l'attention avec ses performances passionnées et son charisme sur scène. Son style innovant et son engagement envers l'authenticité du flamenco en font une figure éminente de la musique espagnole contemporaine, captivant les auditeurs à travers le monde avec son talent exceptionnel."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/57"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=57"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 59,
+      "date": "2024-06-03T21:35:17",
+      "date_gmt": "2024-06-03T19:35:17",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=59"
+      },
+      "modified": "2024-07-02T13:59:37",
+      "modified_gmt": "2024-07-02T11:59:37",
+      "slug": "rudy-browning",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/rudy-browning/",
+      "title": {
+        "rendered": "Rudy Browning"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 231,
+        "nom": "Rudy Browning",
+        "date": "27/12/2024",
+        "scene": "Circus Mulaxux",
+        "horaire": "20h00→22h00",
+        "biographie": "Rudy Browning, né le 15 juillet 1985 à Memphis, Tennessee, est un chanteur et guitariste américain de blues contemporain. Imprégné par l'héritage musical riche de sa ville natale, il incarne l'essence du blues avec sa voix éraillée et son jeu de guitare électrisant. Browning a commencé sa carrière dans les clubs de blues de Memphis, où il a été remarqué pour son talent brut et son interprétation passionnée. Avec des chansons poignantes inspirées par la vie urbaine et les luttes personnelles, il captive son public et perpétue la tradition du blues dans le paysage musical contemporain."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/59"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=59"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 61,
+      "date": "2024-06-03T21:37:00",
+      "date_gmt": "2024-06-03T19:37:00",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=61"
+      },
+      "modified": "2024-07-02T14:00:18",
+      "modified_gmt": "2024-07-02T12:00:18",
+      "slug": "malinda-carter",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/malinda-carter/",
+      "title": {
+        "rendered": "Malinda Carter"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 232,
+        "nom": " Malinda Carter",
+        "date": "27/12/2024",
+        "scene": "Circus Mulaxux",
+        "horaire": "22h00→00h00",
+        "biographie": "Malinda Carter, née le 20 mars 1990 à Detroit, Michigan, est une chanteuse et pianiste américaine de soul et de R&B. Dotée d'une voix captivante et d'un talent exceptionnel au piano, elle transporte son public dans un voyage émotionnel à travers ses performances vibrantes et authentiques. Carter a été inspirée par les grands noms du soul et du R&B, et elle mêle habilement des éléments de ces genres avec sa propre sensibilité artistique pour créer un son distinctif et envoûtant. Avec des chansons qui parlent d'amour, de résilience et de croissance personnelle, elle touche les cœurs et les âmes de son public, faisant d'elle une voix remarquable dans le paysage musical contemporain."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/61"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=61"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 65,
+      "date": "2024-06-03T21:39:22",
+      "date_gmt": "2024-06-03T19:39:22",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=65"
+      },
+      "modified": "2024-07-02T14:00:58",
+      "modified_gmt": "2024-07-02T12:00:58",
+      "slug": "geoffrey-roberts",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/geoffrey-roberts/",
+      "title": {
+        "rendered": "Geoffrey Roberts"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 233,
+        "nom": "Geoffrey Roberts",
+        "date": "27/12/2024",
+        "scene": "Circus Mulaxux",
+        "horaire": "00h00→02h00",
+        "biographie": "Geoffrey Roberts, né le 12 octobre 1983 à Londres, est un chanteur et compositeur anglais de pop-rock. Son style musical dynamique et accrocheur combine des mélodies entraînantes avec des paroles sincères, créant ainsi des chansons qui résonnent avec un large public. Roberts a débuté sa carrière dans les clubs de musique de Londres, où il a été remarqué pour sa voix puissante et son charisme sur scène. Avec des refrains accrocheurs et des performances énergiques, il captive son public et continue de conquérir les cœurs avec sa musique passionnée et inspirante."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/65"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=65"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 67,
+      "date": "2024-06-03T21:40:53",
+      "date_gmt": "2024-06-03T19:40:53",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=67"
+      },
+      "modified": "2024-07-02T14:01:35",
+      "modified_gmt": "2024-07-02T12:01:35",
+      "slug": "paula-ali",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/paula-ali/",
+      "title": {
+        "rendered": "Paula Ali"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 234,
+        "nom": " Paula Ali",
+        "date": "28/12/2024",
+        "scene": "Villa Aurelika",
+        "horaire": "18h00→20h00",
+        "biographie": "Paula Ali, née le 18 septembre 1987 à Rio de Janeiro, est une chanteuse et compositrice brésilienne de musique pop. Sa voix envoûtante et son charisme sur scène en font une figure emblématique de la scène musicale brésilienne contemporaine. Ali a débuté sa carrière dans les bars et clubs de sa ville natale avant de conquérir le cœur du public avec ses chansons authentiques et ses mélodies accrocheuses. Avec son style unique et son énergie contagieuse, elle captive son public et continue de diffuser la joie de la musique pop à travers le Brésil et au-delà."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/67"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=67"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 69,
+      "date": "2024-06-03T21:42:17",
+      "date_gmt": "2024-06-03T19:42:17",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=69"
+      },
+      "modified": "2024-07-02T14:02:19",
+      "modified_gmt": "2024-07-02T12:02:19",
+      "slug": "gerard-holt",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/gerard-holt/",
+      "title": {
+        "rendered": "Gerard Holt"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 235,
+        "nom": "Gerard Holt",
+        "date": "28/12/2024",
+        "scene": "Villa Aurelika",
+        "horaire": "20h00→22h00",
+        "biographie": "Gérard Holt, né le 24 avril 1980 à Paris, est un chanteur et guitariste français de musique folk-rock. Inspiré par les paysages et les traditions de la France, il crée des chansons poignantes qui reflètent les joies et les peines de la vie quotidienne. Holt a commencé sa carrière sur les scènes underground de Paris, où il a été remarqué pour sa voix chaleureuse et ses paroles sincères. Avec des mélodies accrocheuses et des performances captivantes, il captive son public et continue de transmettre son message à travers sa musique, devenant ainsi une voix reconnaissable dans le paysage musical français."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/69"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=69"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 71,
+      "date": "2024-06-03T21:43:35",
+      "date_gmt": "2024-06-03T19:43:35",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=71"
+      },
+      "modified": "2024-07-02T14:02:56",
+      "modified_gmt": "2024-07-02T12:02:56",
+      "slug": "orville-bradshaw",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/orville-bradshaw/",
+      "title": {
+        "rendered": "Orville Bradshaw"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 236,
+        "nom": "Orville Bradshaw",
+        "date": "28/12/2024",
+        "scene": "Villa Aurelika",
+        "horaire": "22h00→00h00",
+        "biographie": "Orville Bradshaw, né le 7 juin 1984 à Nashville, Tennessee, est un chanteur et auteur-compositeur américain de musique country. Avec son style authentique et ses paroles introspectives, il capture l'essence de la vie rurale américaine à travers ses chansons. Bradshaw a grandi dans les terres fertiles du Tennessee, où il a été influencé par les sons du sud des États-Unis dès son plus jeune âge. Il a débuté sa carrière dans les clubs de musique locaux avant de se faire connaître sur la scène nationale avec ses ballades émotionnelles et ses hymnes honky-tonk. Avec son charisme naturel et sa voix chaleureuse, il continue de toucher les cœurs de son public et de perpétuer la tradition de la musique country authentique."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/71"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=71"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 74,
+      "date": "2024-06-03T21:44:56",
+      "date_gmt": "2024-06-03T19:44:56",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=74"
+      },
+      "modified": "2024-07-02T14:03:32",
+      "modified_gmt": "2024-07-02T12:03:32",
+      "slug": "marvin-merritt",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/marvin-merritt/",
+      "title": {
+        "rendered": "Marvin Merritt"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 237,
+        "nom": "Marvin Merritt",
+        "date": "28/12/2024",
+        "scene": "Villa Aurelika",
+        "horaire": "00h00→02h00",
+        "biographie": "Marvin Merritt, né le 15 janvier 1990 à Atlanta, Géorgie, est un chanteur et compositeur américain de rhythm and blues contemporain. Sa voix veloutée et son style captivant ont fait de lui une figure remarquable dans le monde de la musique R&B. Merritt a commencé sa carrière dans les clubs de musique de sa ville natale, où il a été remarqué pour son talent exceptionnel et sa présence scénique charismatique. Avec des chansons poignantes et des performances passionnées, il captive son public et continue de séduire les amateurs de R&B avec sa musique authentique et émouvante."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/74"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=74"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 76,
+      "date": "2024-06-03T21:46:09",
+      "date_gmt": "2024-06-03T19:46:09",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=76"
+      },
+      "modified": "2024-07-02T14:04:05",
+      "modified_gmt": "2024-07-02T12:04:05",
+      "slug": "delia-lin",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/delia-lin/",
+      "title": {
+        "rendered": "Delia Lin"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 238,
+        "nom": " Delia Lin",
+        "date": "28/12/2024",
+        "scene": "Theatrum Magnifildum",
+        "horaire": "18h00→20h00",
+        "biographie": "Delia Lin, née le 28 août 1995 à Los Angeles, Californie, est une chanteuse et auteure-compositrice américaine de pop électro. Avec sa voix envoûtante et ses mélodies accrocheuses, elle captive son public avec des compositions originales qui mêlent des influences pop, électro et indie. Lin a débuté sa carrière musicale en tant que musicienne de rue à Los Angeles avant de se faire remarquer sur la scène locale pour ses performances énergiques et son charisme sur scène. Avec des chansons qui parlent d'amour, d'émotion et d'expérience humaine, elle touche les cœurs de son public et continue de s'élever dans l'industrie musicale avec son talent et sa créativité remarquables."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/76"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=76"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 78,
+      "date": "2024-06-03T21:55:26",
+      "date_gmt": "2024-06-03T19:55:26",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=78"
+      },
+      "modified": "2024-07-02T14:51:22",
+      "modified_gmt": "2024-07-02T12:51:22",
+      "slug": "lee-walker",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/lee-walker/",
+      "title": {
+        "rendered": "Lee Walker"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 263,
+        "nom": "Lee Walker",
+        "date": "28/12/2024",
+        "scene": "Theatrum Magnifildum",
+        "horaire": "20h00→22h00",
+        "biographie": "Lee Walker, né le 10 novembre 1988 à Atlanta, Géorgie, est un rappeur et producteur américain de hip-hop. Originaire du sud des États-Unis, il puise son inspiration dans les expériences de sa vie et les réalités de la rue pour créer des chansons authentiques et percutantes. Walker a commencé sa carrière dans les quartiers animés d'Atlanta, où il a été remarqué pour ses paroles perspicaces et son flow impressionnant. Avec des rythmes accrocheurs et des paroles qui reflètent sa véritable authenticité, il captive son public et continue de marquer son empreinte dans le paysage musical du hip-hop."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/78"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=78"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 81,
+      "date": "2024-06-03T21:58:32",
+      "date_gmt": "2024-06-03T19:58:32",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=81"
+      },
+      "modified": "2024-07-02T14:52:09",
+      "modified_gmt": "2024-07-02T12:52:09",
+      "slug": "sonia-price",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/sonia-price/",
+      "title": {
+        "rendered": "Sonia Price"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 265,
+        "nom": "Sonia Price",
+        "date": "28/12/2024",
+        "scene": "Theatrum Magnifildum",
+        "horaire": "22h00→00h00",
+        "biographie": "Sonia Price, née le 20 mars 1992 à Chicago, Illinois, est une chanteuse et compositrice américaine de soul et de R&B. Sa voix puissante et émouvante, combinée à ses paroles introspectives, captivent son public et lui permettent de se démarquer dans l'industrie musicale. Price a commencé sa carrière dans les clubs de musique locaux de Chicago, où elle a rapidement attiré l'attention pour son talent exceptionnel. Avec des chansons qui explorent les thèmes de l'amour, de la perte et de la résilience, elle touche les cœurs et les âmes de son public, faisant d'elle une artiste incontournable dans le paysage musical contemporain."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/81"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=81"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 83,
+      "date": "2024-06-03T21:59:48",
+      "date_gmt": "2024-06-03T19:59:48",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=83"
+      },
+      "modified": "2024-07-02T14:52:38",
+      "modified_gmt": "2024-07-02T12:52:38",
+      "slug": "eliseo-todd",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/eliseo-todd/",
+      "title": {
+        "rendered": "Eliseo Todd"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 266,
+        "nom": "Eliseo Todd",
+        "date": "28/12/2024",
+        "scene": "Theatrum Magnifildum",
+        "horaire": "00h00→02h00",
+        "biographie": "Eliseo Todd, né le 12 septembre 1987 à Houston, Texas, est un chanteur et guitariste américain de musique folk-rock. Son style musical unique mêle des éléments de folk traditionnel avec des accents de rock indépendant, créant ainsi une atmosphère captivante et sincère. Todd a commencé sa carrière dans les petits bars et cafés de Houston, où il a été remarqué pour sa voix envoûtante et ses compositions introspectives. Avec des paroles poétiques et des mélodies accrocheuses, il transporte son public dans un voyage émotionnel à travers ses chansons, affirmant ainsi sa place dans le paysage musical contemporain."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/83"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=83"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 85,
+      "date": "2024-06-03T22:02:11",
+      "date_gmt": "2024-06-03T20:02:11",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=85"
+      },
+      "modified": "2024-07-02T14:53:09",
+      "modified_gmt": "2024-07-02T12:53:09",
+      "slug": "josef-pittman",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/josef-pittman/",
+      "title": {
+        "rendered": "Josef Pittman"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 267,
+        "nom": "Josef Pittman",
+        "date": "28/12/2024",
+        "scene": "Circus Mulaxux",
+        "horaire": "18h00→20h00",
+        "biographie": "Josef Pittman, né le 5 avril 1991 à La Nouvelle-Orléans, Louisiane, est un chanteur et pianiste américain de jazz contemporain. Avec son style distinctif et son talent exceptionnel, il perpétue la tradition du jazz dans la ville qui l'a vu naître. Pittman a commencé à jouer du piano dès son plus jeune âge, captivé par les sons envoûtants du jazz de La Nouvelle-Orléans. Il a depuis émergé comme l'une des figures montantes de la scène jazz, avec des performances énergiques et des compositions originales qui célèbrent l'héritage riche de cette musique. Avec son charisme sur scène et sa virtuosité au piano, il captive son public et continue de faire vibrer les amateurs de jazz à travers le monde."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/85"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=85"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 88,
+      "date": "2024-06-03T22:03:47",
+      "date_gmt": "2024-06-03T20:03:47",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=88"
+      },
+      "modified": "2024-07-02T14:54:10",
+      "modified_gmt": "2024-07-02T12:54:10",
+      "slug": "damian-benjamin",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/damian-benjamin/",
+      "title": {
+        "rendered": "Damian Benjamin"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 268,
+        "nom": "Damian Benjamin",
+        "date": "28/12/2024",
+        "scene": "Circus Mulaxux",
+        "horaire": "20h00→22h00",
+        "biographie": "Damian Benjamin, né le 17 août 1986 à Brooklyn, New York, est un chanteur et rappeur américain de hip-hop. Originaire de la scène underground de New York, il s'est fait connaître pour ses paroles perspicaces et son flow percutant. Benjamin est réputé pour sa capacité à capturer l'essence de la vie urbaine à travers ses chansons, abordant des thèmes tels que la lutte, l'ambition et la résilience. Avec des rythmes entraînants et des paroles qui reflètent sa propre expérience, il attire l'attention et captive son public, affirmant ainsi sa place dans le paysage musical du hip-hop contemporain."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/88"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=88"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 90,
+      "date": "2024-06-03T22:05:02",
+      "date_gmt": "2024-06-03T20:05:02",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=90"
+      },
+      "modified": "2024-07-02T14:54:42",
+      "modified_gmt": "2024-07-02T12:54:42",
+      "slug": "geoffrey-lester",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/geoffrey-lester/",
+      "title": {
+        "rendered": "Geoffrey Lester"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 269,
+        "nom": "Geoffrey Lester",
+        "date": "28/12/2024",
+        "scene": "Circus Mulaxux",
+        "horaire": "22h00→00h00",
+        "biographie": "Geoffrey Lester, né le 25 juin 1989 à Londres, est un chanteur et compositeur anglais de pop-rock. Son style musical dynamique et accrocheur allie des mélodies entraînantes à des paroles sincères, créant ainsi des chansons qui résonnent avec un large public. Lester a commencé sa carrière dans les bars et clubs de musique de Londres, où il a été remarqué pour sa voix puissante et son charisme sur scène. Avec des refrains accrocheurs et des performances énergiques, il captive son public et continue de conquérir les cœurs avec sa musique passionnée et inspirante."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/90"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=90"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 92,
+      "date": "2024-06-03T22:06:14",
+      "date_gmt": "2024-06-03T20:06:14",
+      "guid": {
+        "rendered": "http://localhost/liveEvents/?post_type=artiste&#038;p=92"
+      },
+      "modified": "2024-07-02T14:54:59",
+      "modified_gmt": "2024-07-02T12:54:59",
+      "slug": "edna-morrison",
+      "status": "publish",
+      "type": "artiste",
+      "link": "http://localhost/liveEvents/artiste/edna-morrison/",
+      "title": {
+        "rendered": "Edna Morrison"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "image": 270,
+        "nom": " Edna Morrison",
+        "date": "28/12/2024",
+        "scene": "Circus Mulaxux",
+        "horaire": "00h00→02h00",
+        "biographie": "Edna Morrison, née le 14 septembre 1990 à Nashville, Tennessee, est une chanteuse et compositrice américaine de musique country. Originaire du cœur de la scène musicale country, elle puise son inspiration dans les histoires de la vie quotidienne et les paysages de sa région natale. Morrison a débuté sa carrière dans les bars et les salles de concert de Nashville, où elle a été remarquée pour sa voix douce et son talent pour l'écriture de chansons. Avec des paroles sincères et des mélodies envoûtantes, elle captive son public et continue de perpétuer la tradition de la musique country authentique."
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste/92"
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/artiste"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/types/artiste"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://localhost/liveEvents/wp-json/wp/v2/media?parent=92"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    }
+  ]
