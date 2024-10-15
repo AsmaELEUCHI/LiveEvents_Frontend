@@ -1,0 +1,132 @@
+<!-- Début carousel -->
+<div class="container position-relative">
+    <div class="carousel-title">
+        <h1 class="text-uppercase">Nation Sound</h1>
+    </div>
+    <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="assets/images/festival-5_optimized_.png" class="w-100 h-100" alt="photo de festival Nation Sound" >
+            </div>
+            <div class="carousel-item" >
+                <img src="assets/images/festival_8_optimized_.png" class=" w-100 h-100" alt="photo de festival Nation Sound">
+            </div>
+        </div>
+        
+    </div>
+</div>
+<!-- Fin carousel -->
+
+<!-- Début flip-card-programmes-->
+<div  id="outer-container-flip-card">
+    <div class="flip-card-container">
+        
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="assets/images/vendredi_26-12-2024_optimized_.png" alt="photo de vendredi 26/12/2024">
+                </div>
+                <div class="flip-card-back">
+                    <button [routerLink]="['/programmes']" aria-label="Découvrez notre programme">Découvrez notre programme</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="assets/images/samedi_28-12-2024_optimized_.png" alt="photo de samedi 27/12/2024" >
+                </div>
+                <div class="flip-card-back">
+                    <button [routerLink]="['/programmes']" aria-label="Découvrez notre programme">Découvrez notre programme</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <img src="assets/images/dimanche_optimized_.png" alt="photo de dimanche 28/12/2024" >
+                </div>
+                <div class="flip-card-back">
+                    <button [routerLink]="['/programmes']" aria-label="Découvrez notre programme">Découvrez notre programme</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Fin flip-card-programmes -->
+
+<!-- Début de description-planning  -->
+<div class="container" id="container-planning-accueil">
+<div class="photo ">
+    <img src="assets/images/festival_9_optimized_.jpg" alt="Image de festival Nation sound" class="img-description" loading="lazy">
+</div>
+<div class="description">
+    <article class="article">
+        <h2 class="text-uppercase fw-bold">Bienvenue à nos Événements</h2>
+        <p class="extra-text">Plongez dans l'excitation et la diversité de la scène musicale lors de notre festival de musique annuel. Que vous soyez un passionné de rock, de jazz, de pop ou de musique électronique, notre programmation éclectique saura satisfaire tous les amateurs de musique.
+        <p >Préparez-vous à une expérience musicale inoubliable et rejoignez-nous pour célébrer la magie de la musique sous toutes ses formes!</p>
+        <p class="extra-text">Pour plus de détails sur notre planning complet, cliquez sur le bouton ci-dessous et explorez tout ce que nous avons à offrir.</p>
+        <div id="container-button-planning">
+            <button class="mb-3 px-3" [routerLink]="['/planning']" aria-label="En savoir plus sur notre planning">En savoir plus <br>sur notre planning</button>
+        </div>
+
+    </article>
+    
+</div>
+</div>
+
+<!-- Fin de description-planning  -->
+
+
+<!-- Debut Reservation ticket-->
+<div class="container-billet">
+<h2 class="text-center text-uppercase fw-bold">VIVEZ UNE EXPÉRIENCE INOUBLIABLE À PARIS</h2>
+<p class="text-center">Pendant trois jours, vivez une expérience immersive <br>avec 12 heures de musique non-stop sur trois scènes différentes</p>
+<button class="button-ticket" onclick="window.open('simulationTicket.html', '_blank', 'noopener')" aria-label="Réservez votre billet">Réservez votre billet</button>
+</div>
+
+<!-- Fin Reservation ticket-->
+
+
+<!-- Début accès info et partenaires -->
+<div class="container">
+<div class="image-container-wapper">
+    <div class="image-wrapper">
+        <a routerLink="/faq" class="image image-1">
+            <div class="text">Info Pratique</div>
+        </a>
+    </div>
+    <div class="image-wrapper">
+        <a routerLink="/partenaires" class="image image-2">
+            <div class="text">Nos Partenaires</div>
+        </a>
+    </div>
+</div>
+</div>
+<!-- Fin accès info et partenaires -->
+
+
+
+<!-- Début de description-carte -->
+<div class="container" id="container-carte">
+<div class="description-new ">
+    <article class="article-new col-6 mx-auto ">
+        <h2 class="mb-4 text-uppercase fw-bold">Explorez notre carte interactive</h2>
+        <p>Trouvez rapidement les scènes où se déroulent les spectacles, les restaurants, ainsi que les installations sanitaires pour assurer votre confort.</p>
+        <p class="extra-text">Notre carte interactive est votre compagnon idéal pour naviguer dans l'univers passionnant de notre festival.</p>
+    </article>
+</div>
+<div class="photo-new">
+    <img src="assets/images/carte-accueil_optimized_.png" alt="carte de géolocalisation" class="img-description-new" loading="lazy">
+    <div id="container-button-carte">
+        <button [routerLink]="['/carte']" aria-label="Explorez notre carte">Explorez <br>notre carte interactive
+        </button>    
+    </div>
+</div>
+</div>
+
+<!-- Fin de description-carte -->
+
