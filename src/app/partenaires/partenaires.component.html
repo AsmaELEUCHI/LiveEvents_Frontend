@@ -1,0 +1,14 @@
+<div id="title-partners-container">
+    <h1 class="text-uppercase fw-bold">Nos Partenaires de Choix</h1>
+  </div>
+  
+  <div id="partners-container">
+    <!-- Utilisation de *ngFor pour générer dynamiquement les articles partenaires -->
+    <article *ngFor="let partner of partnerData" class="partner-article">
+      <h2 class="partner-title">{{ partner.title.rendered }}</h2>
+      <img class="partner-image" [src]="getPartnerImageUrl(partner.id)" alt="{{ partner.title }} logo" >
+      <p class="partner-description">{{ partner.acf.description }}</p>
+      <a class="partner-link" [href]="partner.acf.link.url" target="_blank" rel="noopener">En savoir plus</a>
+    </article>
+  </div>
+  
