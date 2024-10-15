@@ -1,0 +1,161 @@
+h1, h2, h3, h4, h5, h6{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+   p, a, li, span{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  
+  /* Style programmation*/
+  
+  /* Style Filtre programmation*/
+  
+  
+  #filtres{
+      margin-top: 60px;
+    }
+    
+  #filtres-date, #filtres-scene, h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+  #filtres h1{
+  color: rgba(255, 255, 255, 0.7);
+  margin-bottom: 2%;
+  font-weight: bold;
+  
+  }
+  
+  #filtres button {
+    background-color: #b2458ebf; 
+    padding: 10px 20px; 
+    border: none;
+    color: rgba(255, 255, 255, 0.8); 
+    font-weight: bold;
+    border-radius: 20px; 
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  #filtres button:hover {
+    background-color: #c57f05; 
+    transform: scale(1.1); 
+  }
+  
+  /* Style bouton planning*/
+  
+  #container-button-planning{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2%;
+  
+  }
+  #container-button-planning button {
+    padding: 12px 24px; 
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    color: #ffffff; 
+    font-size: 1.2em;
+    background-color: #8c15b4; 
+    border-radius: 20px; 
+   
+  }
+  
+  #container-button-planning button:hover {
+    background-color: #0d6efd;
+    transform: scale(1.05); 
+    border: none;
+  
+  }
+  
+/* Style pour le modal */
+.modal {
+  position: fixed; 
+  z-index: 1; 
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4); 
+}
+
+/* Contenu du modal */
+.modal-content {
+  background-color: #fefefe; 
+  margin: 15% auto; 
+  padding: 20px;
+  border: 1px solid #888;
+  width: 70%; 
+}
+
+/* Bouton de fermeture du modal */
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+  
+
+
+  
+@media (max-width: 768px) { 
+    /* style programme*/
+      #filtres h1{
+        margin-top: 15%;
+        margin-bottom: 5%;
+        }
+        
+        #filtres button{
+        padding: 1%; 
+        font-size: 0.7em;  
+        margin-bottom: 2%;
+        }
+    
+     
+        
+        #container-button-planning{
+        margin-bottom: 5%;
+        margin-top: 2%;
+        font-size: 0.8em; 
+        
+        
+        }
+        #container-button-planning button{
+        padding: 1.5%;
+        border: none;
+        cursor: pointer;
+        transition: background-color 0.3s ease, transform 0.3s ease;
+        color: rgba(255, 255, 255, 0.8);
+        background-color:#8c15b4;
+        }
+    }    
+
+
+    
+@media (min-width: 768px) and (max-width: 1024px){ 
+   
+
+    #titre-planning{
+    
+      font-size: 1.4em;
+    }
+    .artist {
+  padding: 15%;
+  
+    }
+   
+    
+    }
+     

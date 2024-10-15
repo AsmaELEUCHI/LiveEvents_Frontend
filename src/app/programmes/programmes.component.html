@@ -1,0 +1,57 @@
+ <!-- Début boutons de filtres et de planning-->
+ <div id="filtres">
+    <h1 class="pt-5">PROGRAMMATION 2024</h1>
+    <div id="filtres-date" class="mb-3">
+        <button class="mx-2" (click)="filterArtistByDate('tout')" aria-label="Tous les artistes">Tous les artistes</button>
+        <button class="mx-2" (click)="filterArtistByDate('26/12/2024')" aria-label="26/12/2024">26/12/2024</button>
+        <button class="mx-2" (click)="filterArtistByDate('27/12/2024')" aria-label="27/12/2024">27/12/2024</button>
+        <button class="mx-2" (click)="filterArtistByDate('28/12/2024')" aria-label="28/12/2024">28/12/2024</button>
+    </div>
+    <div id="filtres-scene">
+        <button class="mx-2" (click)="filtrerArtisteByScene('tout')" aria-label="Toutes les scènes">Toutes les scènes</button>
+        <button class="mx-2" (click)="filtrerArtisteByScene('Villa Aurelika')" aria-label="Villa Aurelika">Villa Aurelika</button>
+        <button class="mx-2" (click)="filtrerArtisteByScene('Theatrum Magnifildum')" aria-label="Theatrum Magnifildum">Theatrum Magnifildum</button>
+        <button class="mx-2" (click)="filtrerArtisteByScene('Circus Mulaxux')" aria-label="Circus Mulaxux">Circus Mulaxux</button>
+    </div>
+</div>
+<div id="container-button-planning">
+    <button class="mx-1 mb-5" (click)="voirPlanning()" aria-label="En savoir plus sur notre planning">Voir le planning</button>
+</div>
+<!-- Fin boutons de filtres et de planning-->
+
+
+<!-- Début container des cartes d'artistes-->
+<div class="container">
+    <div id="artiste-details" class="row text-dark">
+        <div *ngFor="let artiste of filteredArtistes" class="col-lg-3 col-md-6 mb-4">
+            <div class="card h-100">
+                <img [src]="getArtistImageUrl(artiste.id)" class="card-img-top" alt="Image de l'artiste">
+                <div class="card-body">
+                    <h2 class="card-title text-center">{{ artiste.acf.nom }}</h2>
+                    <p class="card-text text-center">{{ artiste.acf.scene }}</p>
+                    <p class="card-text text-center">{{ artiste.acf.date }}</p>
+                    <p class="card-text text-center">{{ artiste.acf.horaire }}</p>
+                    <div class="d-flex justify-content-center">
+                        <button class="btn btn-primary" (click)="showArtistDetails(artiste.id)">Voir plus</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+ <!-- Fin container des cartes d'artistes-->
+
+
+
+<!-- Début Modal details artiste-->
+<div id="artisteModal" class="modal" [ngStyle]="{'display': modalVisible ? 'block' : 'none'}">
+    <div class="modal-content">
+      <span class="close" (click)="closeModal()">&times;</span>
+      <img id="modal-image"[src]="selectedArtistImage"  alt="Image de l'artiste" style="width: 100px; height: 100px; border-radius: 50%;">
+      <h2 id="modal-nom">{{ selectedArtist?.acf.nom}}</h2>
+      <p id="modal-date">{{ selectedArtist?.acf.horaire }}</p>
+      <p id="modal-scene">{{ selectedArtist?.acf.scene }}</p>
+      <p id="modal-biographie">{{ selectedArtist?.acf.biographie }}</p>
+    </div>
+  </div>
+<!-- Fin Modal details artiste-->
